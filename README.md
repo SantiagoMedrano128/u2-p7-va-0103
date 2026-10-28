@@ -1,2 +1,2 @@
 # u2-p7-va-0103
-grafica de calificaciones de 2 alumnos
+grafica de calificaciones de 2 alumnos maplotlib
